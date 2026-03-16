@@ -12,8 +12,8 @@ from datetime import datetime
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
 TELEGRAM_TOKEN = "8746063154:AAFXB86V2C9t9Q_kShfi5XLb98yhrhvtIQA"
 CHAT_ID        = "-1003864168796"
-GEMINI_API_KEY = "AIzaSyA9zdOKu20FAhHGnvrINephLwbx39JAatU"
-GEMINI_MODEL   = "gemini-1.5-flash-latest"
+GEMINI_API_KEY = "AIzaSyDPg6w7ZHWZbyQRccmoWMOHZ_p9D7TljwI"
+GEMINI_MODEL   = "gemini-pro"
 BOT_USERNAME   = "maxducrew_bot"
 BOT_NAME       = "MaxJR AI"
 # ──────────────────────────────────────────────────────────────────────────────
